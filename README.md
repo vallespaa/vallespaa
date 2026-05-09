@@ -27,7 +27,7 @@ Currently looking for opportunities where I can keep growing as a developer.
 
 ## 🚀 Featured projects
 
-### ⚡ [EV Charging System . IU Maestro](https://github.com/vallespaa/interfaz-service)
+### ⚡ [EV Charging System - IU Maestro](https://github.com/vallespaa/interfaz-service)
 Full-stack interface for a distributed EV charging simulation platform. Built as part of a collaborative microservices project - I designed and implemented the API Gateway (Node.js/Express) and the React SPA that ties the whole ecosystem together.
 `React` `Node.js` `Redis` `WebSockets` `Docker` `JWT` `MongoDB`
 
@@ -39,7 +39,7 @@ Personal finance mobile app built with React Native and Expo. Tracks income and 
 Online store for home delivery products, built in a team of three. I handled the database layer, business logic and backend persistence.
 `Node.js` `MySQL`
 
-### 🔬 [Data Mining Portfolio](https://github.com/vallespaa/data-mining-classworks)
+### 🔬 [Data Mining Portfolio](https://github.com/vallespaa/DataMining-UNICT-Portfolio)
 Collection of ML and data mining projects from my Erasmus at the University of Catania. Covers PCA, market basket analysis, clustering, ensemble methods and CNNs for image classification.
 `Python` `scikit-learn` `TensorFlow` `pandas`
 
