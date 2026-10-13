@@ -1,27 +1,22 @@
 # Hi, I'm Diego 👋
 
-I'm a **Computer Science & Business Administration** student at the University of Zaragoza. I build software to solve real problems - from microservices architectures to mobile apps - and I'm comfortable across the stack.
+I'm a **Software Engineer at adidas** (Tech Future Graduates program) and a final-year **Computer Science & Business Administration** student at the University of Zaragoza.
 
-Currently looking for opportunities where I can keep growing as a developer.
+I work as a full-stack developer - **Java Spring Boot** on the backend, **React** on the frontend - following an agentic development model with **Claude Code**. I like building software that solves real business problems, from microservices architectures to mobile apps.
 
 ---
 
 ## 🛠️ Tech I work with
 
-**Languages**
-`Java` `JavaScript` `Python` `C++` `R`
+**Languages** `Java` `JavaScript` `Python` `SQL` `C++`
 
-**Frontend & Mobile**
-`React` `React Native` `Expo`
+**Backend** `Spring Boot` `Node.js` `Express` `REST APIs` `WebSockets`
 
-**Backend & Infrastructure**
-`Node.js` `Express` `REST APIs` `WebSockets` `Redis` `Docker`
+**Frontend & Mobile** `React` `React Native` `Expo`
 
-**Data & Databases**
-`SQL` `MongoDB` `scikit-learn` `TensorFlow` `pandas`
+**Data & Infrastructure** `MySQL` `MongoDB` `Redis` `Docker` `scikit-learn` `TensorFlow` `pandas`
 
-**Tools & Methods**
-`Git` `Scrum/Agile` `Microservices`
+**Tools & Methods** `Git` `Claude Code` `Agentic development` `Scrum/Agile` `Microservices`
 
 ---
 
@@ -47,10 +42,11 @@ Collection of ML and data mining projects from my Erasmus at the University of C
 
 ## 🌍 Background
 
-- 🎓 Double degree in **Computer Science + Business Administration** - Universidad de Zaragoza
-- ✈️ **Erasmus+** at Università degli Studi di Catania, Italy
-- 💼 Software Engineering internship at **Carreras Grupo Logístico** (Summer 2025) - Java, SQL, Scrum
-- 🗣️ English B2 · French B1
+- 💼 **Software Engineer** · adidas, Tech Future Graduates program (2026 – present) — Full stack, Java Spring Boot + React
+- 💼 **Software Engineering Intern** · Carreras Grupo Logístico (Summer 2025) — Feature development on the company's in-house transport management system · Java, SQL, Scrum
+- 🎓 Joint degree in **Computer Science + Business Administration** · Universidad de Zaragoza (2021 – 2027)
+- ✈️ **Erasmus+** at Università degli Studi di Catania, Italy · Intensive Programme at Università di Parma
+- 🗣️ English C1 · French B1 · Italian (elementary)
 
 ---
 
